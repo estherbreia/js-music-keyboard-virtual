@@ -3,6 +3,9 @@
 
 Este é um projeto desenvolvido como parte de uma aula do bootcamp de Front-End da [DIO](https://www.dio.me/). Um teclado musical virtual nterativo onde você pode tocar notas musicais utilizando as teclas do teclado do seu computador ou clicando nas teclas na interface gráfica.
 
+## Acesse a versão online
+
+Você pode testar o projeto diretamente no navegador acessando a versão online no GitHub Pages: [https://estherbreia.github.io/js-music-keyboard-virtual](https://estherbreia.github.io/js-music-keyboard-virtual)
 
 ## Tecnologias Utilizadas
 
